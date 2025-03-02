@@ -1,6 +1,6 @@
-# VidBinge providers package
+# xstormTV providers package
 
-package that holds all providers of VidBinge.
+package that holds all providers of xstormTV.
 Feel free to use for your own projects.
 
 features:
