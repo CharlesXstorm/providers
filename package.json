@@ -1,6 +1,6 @@
 {
   "name": "xstormtv-providers",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Package that contains all the providers of xstormtv",
   "type": "module",
   "main": "./lib/index.js",
@@ -25,7 +25,7 @@
     "url": "git+https://github.com/charlesxstorm/providers.git"
   },
   "keywords": [
-    "movie-web",
+    "xstormtv",
     "providers"
   ],
   "author": "movie-web",
